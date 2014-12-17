@@ -1,0 +1,7 @@
+h1(id="title") Welcome to Mutimedia Retrieval System 
+
+input(type="text", name="Tags")
+button(class="btn", data-action="bea").
+    Search
+
+p copyrights: Sudarshan
